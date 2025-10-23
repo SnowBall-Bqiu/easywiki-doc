@@ -17,30 +17,30 @@
   "menu": [
     {
       "title": "欢迎",
-      "link": "home.md"
+      "link": "doc/home.md"
     },
     {
       "title": "快速部署",
-      "link": "start.md"
+      "link": "doc/start.md"
     },
     {
       "title": "帮助开发WIKI",
-      "link": "installation.md"
+      "link": "doc/installation.md"
     },
     {
       "title": "关于Easy WIKI",
-      "link": "abaot.md"
+      "link": "doc/about.md"
     },
     {
       "title": "使用教程",
-      "link": "do.md"
+      "link": "doc/do.md"
     },
     {
       "title": "改进记录",
       "children": [
         {
           "title": "v1.0.1",
-          "link": "Improvement/v1.0.1.md"
+          "link": "doc/Improvement/v1.0.1.md"
         }
       ]
     },
@@ -49,11 +49,11 @@
       "children": [
         {
           "title": "API 接口",
-          "link": "api.md"
+          "link": "doc/api.md"
         },
         {
           "title": "教程",
-          "link": "qa.md"
+          "link": "doc/qa.md"
         }
       ]
     }

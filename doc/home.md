@@ -1,5 +1,5 @@
 # 欢迎来到简单WIKI
-![alt text](logo.webp)
+![alt text](assets/logo.webp)
 
 ## 功能特点
 
