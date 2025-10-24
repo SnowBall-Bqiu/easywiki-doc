@@ -47,7 +47,6 @@ easywiki/
 1. 点击左侧导航菜单浏览不同文档
 2. 内容区域会实时渲染 Markdown 内容，方便阅读
 
-详细部署信息和其他信息，请访问官方网站 [easywiki](https://easywiki.bq9.ru)
 
 ## 许可证
 
